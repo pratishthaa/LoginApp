@@ -1,4 +1,4 @@
-# loginapp
+# LoginApp
 
 A Flutter project.
 
